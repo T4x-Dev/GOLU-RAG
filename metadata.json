@@ -1,0 +1,6 @@
+{
+  "name": "ExamPrep AI - Smart Exam Notes & Revision Generator",
+  "description": "Upload syllabus, model question papers, and study material to generate exam-ready document notes and handwritten revision sheets with diagrams, 2/5/10-mark structured answers, and verified source citations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
